@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Bottled drinking water (litres)",
+    "category": "Water",
+    "priority": "High",
+    "qty_needed": 12,
+    "qty_have": 12,
+    "expiry": "2027-08-01",
+    "notes": "3 L per person per day x 4 people"
+  },
+  {
+    "name": "Water purification tablets",
+    "category": "Water",
+    "priority": "High",
+    "qty_needed": 2,
+    "qty_have": 1,
+    "expiry": "2027-03-15",
+    "notes": "Boxes of 50"
+  },
+  {
+    "name": "Collapsible water jug",
+    "category": "Water",
+    "priority": "Medium",
+    "qty_needed": 2,
+    "qty_have": 2,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Portable water filter",
+    "category": "Water",
+    "priority": "Medium",
+    "qty_needed": 1,
+    "qty_have": 0,
+    "expiry": "",
+    "notes": "Straw or pump type"
+  },
+  {
+    "name": "Canned beans",
+    "category": "Food",
+    "priority": "High",
+    "qty_needed": 10,
+    "qty_have": 10,
+    "expiry": "2027-11-30",
+    "notes": ""
+  },
+  {
+    "name": "Canned fish",
+    "category": "Food",
+    "priority": "High",
+    "qty_needed": 8,
+    "qty_have": 6,
+    "expiry": "2027-06-20",
+    "notes": ""
+  },
+  {
+    "name": "Energy bars",
+    "category": "Food",
+    "priority": "Medium",
+    "qty_needed": 20,
+    "qty_have": 20,
+    "expiry": "2026-12-10",
+    "notes": "Rotate soon"
+  },
+  {
+    "name": "Instant noodles",
+    "category": "Food",
+    "priority": "Low",
+    "qty_needed": 12,
+    "qty_have": 12,
+    "expiry": "2026-10-01",
+    "notes": "Past date - replace"
+  },
+  {
+    "name": "Rice (kg)",
+    "category": "Food",
+    "priority": "High",
+    "qty_needed": 5,
+    "qty_have": 5,
+    "expiry": "2027-09-01",
+    "notes": ""
+  },
+  {
+    "name": "Baby formula",
+    "category": "Food",
+    "priority": "High",
+    "qty_needed": 3,
+    "qty_have": 0,
+    "expiry": "2027-02-01",
+    "notes": "Only if infant in household"
+  },
+  {
+    "name": "Manual can opener",
+    "category": "Tools",
+    "priority": "High",
+    "qty_needed": 1,
+    "qty_have": 1,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "First aid manual",
+    "category": "First Aid",
+    "priority": "Medium",
+    "qty_needed": 1,
+    "qty_have": 1,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Adhesive bandages",
+    "category": "First Aid",
+    "priority": "High",
+    "qty_needed": 40,
+    "qty_have": 40,
+    "expiry": "2028-01-01",
+    "notes": "Assorted sizes"
+  },
+  {
+    "name": "Sterile gauze pads",
+    "category": "First Aid",
+    "priority": "High",
+    "qty_needed": 10,
+    "qty_have": 4,
+    "expiry": "2027-05-01",
+    "notes": ""
+  },
+  {
+    "name": "Antiseptic wipes",
+    "category": "First Aid",
+    "priority": "Medium",
+    "qty_needed": 30,
+    "qty_have": 30,
+    "expiry": "2026-12-05",
+    "notes": ""
+  },
+  {
+    "name": "Elastic bandage",
+    "category": "First Aid",
+    "priority": "Medium",
+    "qty_needed": 2,
+    "qty_have": 2,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Digital thermometer",
+    "category": "First Aid",
+    "priority": "Low",
+    "qty_needed": 1,
+    "qty_have": 1,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Prescription medication (7-day)",
+    "category": "Medication",
+    "priority": "High",
+    "qty_needed": 7,
+    "qty_have": 7,
+    "expiry": "2027-01-20",
+    "notes": "Refill monthly"
+  },
+  {
+    "name": "Pain relievers",
+    "category": "Medication",
+    "priority": "Medium",
+    "qty_needed": 2,
+    "qty_have": 1,
+    "expiry": "2026-12-01",
+    "notes": "Check expiry"
+  },
+  {
+    "name": "Oral rehydration salts",
+    "category": "Medication",
+    "priority": "High",
+    "qty_needed": 10,
+    "qty_have": 0,
+    "expiry": "2027-07-01",
+    "notes": ""
+  },
+  {
+    "name": "LED flashlight",
+    "category": "Lighting & Power",
+    "priority": "High",
+    "qty_needed": 2,
+    "qty_have": 2,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Spare batteries (AA)",
+    "category": "Lighting & Power",
+    "priority": "High",
+    "qty_needed": 16,
+    "qty_have": 8,
+    "expiry": "2028-02-01",
+    "notes": ""
+  },
+  {
+    "name": "Power bank (20000 mAh)",
+    "category": "Lighting & Power",
+    "priority": "High",
+    "qty_needed": 2,
+    "qty_have": 1,
+    "expiry": "",
+    "notes": "Keep charged"
+  },
+  {
+    "name": "Hand-crank lantern",
+    "category": "Lighting & Power",
+    "priority": "Medium",
+    "qty_needed": 1,
+    "qty_have": 0,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Matches in waterproof case",
+    "category": "Lighting & Power",
+    "priority": "Low",
+    "qty_needed": 3,
+    "qty_have": 3,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Battery/hand-crank radio",
+    "category": "Communication",
+    "priority": "High",
+    "qty_needed": 1,
+    "qty_have": 1,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Whistle",
+    "category": "Communication",
+    "priority": "Medium",
+    "qty_needed": 4,
+    "qty_have": 4,
+    "expiry": "",
+    "notes": "One per person"
+  },
+  {
+    "name": "Written emergency contacts",
+    "category": "Communication",
+    "priority": "High",
+    "qty_needed": 1,
+    "qty_have": 1,
+    "expiry": "",
+    "notes": "Laminated"
+  },
+  {
+    "name": "Phone charging cable",
+    "category": "Communication",
+    "priority": "Medium",
+    "qty_needed": 3,
+    "qty_have": 3,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "ID copies (sealed bag)",
+    "category": "Documents",
+    "priority": "High",
+    "qty_needed": 4,
+    "qty_have": 4,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Insurance papers copy",
+    "category": "Documents",
+    "priority": "Medium",
+    "qty_needed": 1,
+    "qty_have": 0,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Cash in small bills",
+    "category": "Documents",
+    "priority": "Medium",
+    "qty_needed": 1,
+    "qty_have": 1,
+    "expiry": "",
+    "notes": "ATMs may be down"
+  },
+  {
+    "name": "Local map (paper)",
+    "category": "Documents",
+    "priority": "Low",
+    "qty_needed": 1,
+    "qty_have": 1,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Toilet paper (rolls)",
+    "category": "Hygiene",
+    "priority": "Medium",
+    "qty_needed": 8,
+    "qty_have": 8,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Hand sanitiser",
+    "category": "Hygiene",
+    "priority": "Medium",
+    "qty_needed": 3,
+    "qty_have": 2,
+    "expiry": "2027-04-01",
+    "notes": ""
+  },
+  {
+    "name": "Garbage bags",
+    "category": "Hygiene",
+    "priority": "Low",
+    "qty_needed": 20,
+    "qty_have": 20,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Wet wipes",
+    "category": "Hygiene",
+    "priority": "Low",
+    "qty_needed": 4,
+    "qty_have": 0,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Emergency blankets",
+    "category": "Shelter & Clothing",
+    "priority": "High",
+    "qty_needed": 4,
+    "qty_have": 4,
+    "expiry": "",
+    "notes": "Mylar"
+  },
+  {
+    "name": "Rain ponchos",
+    "category": "Shelter & Clothing",
+    "priority": "Medium",
+    "qty_needed": 4,
+    "qty_have": 2,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Sturdy shoes (pairs)",
+    "category": "Shelter & Clothing",
+    "priority": "Medium",
+    "qty_needed": 4,
+    "qty_have": 4,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Multi-tool",
+    "category": "Tools",
+    "priority": "Medium",
+    "qty_needed": 1,
+    "qty_have": 1,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Duct tape (rolls)",
+    "category": "Tools",
+    "priority": "Low",
+    "qty_needed": 2,
+    "qty_have": 1,
+    "expiry": "",
+    "notes": ""
+  },
+  {
+    "name": "Dust masks (boundary test - huge count)",
+    "category": "Other",
+    "priority": "Low",
+    "qty_needed": 999,
+    "qty_have": 120,
+    "expiry": "",
+    "notes": "Boundary-value test row"
+  },
+  {
+    "name": "Pet food (days)",
+    "category": "Other",
+    "priority": "Medium",
+    "qty_needed": 7,
+    "qty_have": 7,
+    "expiry": "2027-02-14",
+    "notes": ""
+  }
+]

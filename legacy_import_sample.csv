@@ -1,0 +1,10 @@
+name,category,priority,qty_needed,qty_have,expiry,notes
+Good item,Tools,High,2,1,2027-01-01,valid row
+,Tools,High,2,1,,blank name
+Bad qty,Food,Low,abc,1,,non-numeric
+Negative qty,Food,Low,5,-3,,negative
+Bad date,Water,Medium,1,0,31/12/2027,wrong date format
+Bad category,Weapons,Low,1,0,,unknown category
+Too many,Other,Low,5000,0,,over limit
+Good item,Tools,High,2,1,,duplicate of row 1
+Another valid,hygiene,medium,3,3,,case-insensitive match

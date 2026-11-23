@@ -1,0 +1,45 @@
+name,category,priority,qty_needed,qty_have,expiry,notes
+Bottled drinking water (litres),Water,High,12,12,2027-08-01,3 L per person per day x 4 people
+Water purification tablets,Water,High,2,1,2027-03-15,Boxes of 50
+Collapsible water jug,Water,Medium,2,2,,
+Portable water filter,Water,Medium,1,0,,Straw or pump type
+Canned beans,Food,High,10,10,2027-11-30,
+Canned fish,Food,High,8,6,2027-06-20,
+Energy bars,Food,Medium,20,20,2026-12-10,Rotate soon
+Instant noodles,Food,Low,12,12,2026-10-01,Past date - replace
+Rice (kg),Food,High,5,5,2027-09-01,
+Baby formula,Food,High,3,0,2027-02-01,Only if infant in household
+Manual can opener,Tools,High,1,1,,
+First aid manual,First Aid,Medium,1,1,,
+Adhesive bandages,First Aid,High,40,40,2028-01-01,Assorted sizes
+Sterile gauze pads,First Aid,High,10,4,2027-05-01,
+Antiseptic wipes,First Aid,Medium,30,30,2026-12-05,
+Elastic bandage,First Aid,Medium,2,2,,
+Digital thermometer,First Aid,Low,1,1,,
+Prescription medication (7-day),Medication,High,7,7,2027-01-20,Refill monthly
+Pain relievers,Medication,Medium,2,1,2026-12-01,Check expiry
+Oral rehydration salts,Medication,High,10,0,2027-07-01,
+LED flashlight,Lighting & Power,High,2,2,,
+Spare batteries (AA),Lighting & Power,High,16,8,2028-02-01,
+Power bank (20000 mAh),Lighting & Power,High,2,1,,Keep charged
+Hand-crank lantern,Lighting & Power,Medium,1,0,,
+Matches in waterproof case,Lighting & Power,Low,3,3,,
+Battery/hand-crank radio,Communication,High,1,1,,
+Whistle,Communication,Medium,4,4,,One per person
+Written emergency contacts,Communication,High,1,1,,Laminated
+Phone charging cable,Communication,Medium,3,3,,
+ID copies (sealed bag),Documents,High,4,4,,
+Insurance papers copy,Documents,Medium,1,0,,
+Cash in small bills,Documents,Medium,1,1,,ATMs may be down
+Local map (paper),Documents,Low,1,1,,
+Toilet paper (rolls),Hygiene,Medium,8,8,,
+Hand sanitiser,Hygiene,Medium,3,2,2027-04-01,
+Garbage bags,Hygiene,Low,20,20,,
+Wet wipes,Hygiene,Low,4,0,,
+Emergency blankets,Shelter & Clothing,High,4,4,,Mylar
+Rain ponchos,Shelter & Clothing,Medium,4,2,,
+Sturdy shoes (pairs),Shelter & Clothing,Medium,4,4,,
+Multi-tool,Tools,Medium,1,1,,
+Duct tape (rolls),Tools,Low,2,1,,
+Dust masks (boundary test - huge count),Other,Low,999,120,,Boundary-value test row
+Pet food (days),Other,Medium,7,7,2027-02-14,
